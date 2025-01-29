@@ -1,0 +1,1 @@
+console.log('Hello, it`s small easter egg for this git. Have a nice day and enjoy your life :)');
